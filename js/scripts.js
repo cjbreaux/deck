@@ -10,6 +10,14 @@ suits.forEach(function(suit){
   })
 })
 
+// ranks.map(function(rank){
+//   return rank + "test"
+//   console.log(rank);
+// })
+
+// when mapping to an array, it needs to be the same length. cant add elements to an array with map
+
+
 $(document).ready(function(){
 
 })
